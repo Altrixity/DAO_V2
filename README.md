@@ -1,11 +1,18 @@
-# DAO_V2 (DoAnythingOnline)
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-<p>DAO_V2 is a 100% overhaul of DAO_V1, DAO_V2 is still in private development as of Today April, 24th, 2026</p>
-<br>
-<br>
-<h1>Diffrences between DAO V1 and V2</h1>
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-<br>
-<h4>1. DAO_V1 is not a proxy while DAO_V2 uses proxys</h3>
-<h4>2. DAO_V1 uses a iframe/embed exploit while DAO_V2 uses proxies mainly</h3>
+# DAOV2 Full Release
+---------------------
 
+Currently DoAnythingOnlineV2 or DAOV2 is not public, but the demo is avaliable at:
+
+https://github.com/Altrixity/DAO_V2_demo,
+https://DAODemo.page.gd,
+and https://daov2demo-production.up.railway.app/
+
+# Full Release Plans
+
+We plan to add in the old "Legacy" versions of DAO
+
+Legacy Builds:
+
+DAO_V1 - Found and slightly altered to work in the modern day
+ub-DAO - Found, unaltered (currently)
+DOSV1 - Lost (Trying to find), Original version of DAO
